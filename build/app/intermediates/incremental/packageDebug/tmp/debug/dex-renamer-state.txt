@@ -1,0 +1,4 @@
+#Fri Jun 19 23:44:41 PKT 2020
+base.0=/Users/eapple/Desktop/flutter_covid_19_tracker/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
